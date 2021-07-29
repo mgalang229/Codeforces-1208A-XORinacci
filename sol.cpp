@@ -10,8 +10,8 @@ int main() {
 	while (tt--) {
 		long long a, b, n;
 		cin >> a >> b >> n;
-		// if do the operations (from the problem statement) manually in a for-loop
-		// a pattern will be created every three numbers:
+		// if you do the operations (from the problem statement) manually in a for-loop,
+		// it can be seen that a pattern will be created every three numbers:
 		// first number is the value of 'a'
 		// second number is the value of 'b'
 		// third number is the value of ('a' ^ 'b')
